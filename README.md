@@ -132,3 +132,5 @@ python visualize_methods_comparison.py --results-root ./results_2a_MidSquare --c
 
 `utils.py` — Small shared utilities for GMM 
 
+# Acknowledgement
+I would like to express my sincere gratitude to my supervisor Dr. Esmeralda Whittamer, Kirill Tamogashev, Arran Carter and Sangheyok Choi for their guidance and valuable feedback. I also acknowledge the authors of the core research ideas that shaped this project and the creators of the open source tools and datasets used here. 
